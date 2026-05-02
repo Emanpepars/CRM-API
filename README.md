@@ -4,7 +4,6 @@ A small CRM (Customer Relationship Management) backend built with **Python**, **
 
 It manages **Customers**, **Leads**, and **Notes**, with simple filtering, searching, and a basic reporting endpoint.
 
-This project is intentionally kept simple and beginner-friendly — no authentication, no Docker, no advanced patterns.
 
 ---
 
